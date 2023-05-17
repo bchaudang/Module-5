@@ -1,10 +1,5 @@
 # Module-5 Challenge
+--------------------------------------------------------------------------------------------------------------------
 
-In this assignment, you’ll apply what you've learned about Matplotlib to a real-world situation and dataset.
-
-Background
-You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
-
-As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
-
-The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
+  This assignment had started out relatively easy in terms of applying what was taught and what I had learned in class through the activities for the preparing the data and generating general summaries. However, I did encounter quite a few roadblocks. Firstly, while creating bar and pie charts, though my code was running successfully, with the charts appearing, they were all overlapping eachother within one cell. After the aid of askBcs, it was determined that I was using the interactive line for matplotlib (%matplotlib notebook).
+  Secondly, I had originally seperated all four drug regimens and created codes to calculate the quartiles, IQR and outliers into different cells, and then created my box plot. However, after askBCS and the aid of my tutor, it was clear, based on the grading rubric of the assignment that I was to create an empty list, as well as creating a for loop to determine my values rather than indivually as I had done. This assignment was quite difficult during the lower sections, but with the aid of askBcs Learning assisstants, an amazing tutor, as well as other classmates that have created a study group, it was extremely helpful to be able to discuss different techniques that were being used. Overall, this assignment has been the most challenging thus far, but yet also the most interesting to learn and apply the codes.
