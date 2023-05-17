@@ -1,4 +1,4 @@
-Analysis 
+Analysis of Pymaceuticals
 
 The effectiveness of Ramicane and Capomulin seem to be comparable, and both drug regimens are significantly more effective than Infubinol and Ceftamine, based on the final tumor volumes and box plots that were created for the quartiles, IQR and outliers section of this assignment.
 
