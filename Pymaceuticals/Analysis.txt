@@ -1,0 +1,9 @@
+Analysis 
+
+The effectiveness of Ramicane and Capomulin seem to be comparable, and both drug regimens are significantly more effective than Infubinol and Ceftamine, based on the final tumor volumes and box plots that were created for the quartiles, IQR and outliers section of this assignment.
+
+Another observation that I had made after completing the scatter plots is that the greater weight of the mouse, the drug regimen was less effective.
+Due to the strong r-value correlation that resulted from the linear regression, it was a conclusion that I had made.
+
+Lastly, after reviewing all of the results after completing this assisngment and data set, the study itself was quite consistent throughout and that there is only one outlier for the drugs that were most effective.
+
